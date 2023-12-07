@@ -6,7 +6,6 @@ var rules = [
     ],
     [
         [
-            "deepl.com",
             "aftygh.gov.tw",
             "aide.gov.tw",
             "aliyun.com",
@@ -86,6 +85,7 @@ var rules = [
             "zhongsou.com"
         ],
         [
+            "deepl.com",
             "000webhost.com",
             "030buy.com",
             "0rz.tw",
